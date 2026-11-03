@@ -1,4 +1,4 @@
-# Compose
+# Bon Mot
 
 ```
 npm install
